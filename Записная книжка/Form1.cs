@@ -16,7 +16,7 @@ namespace Записная_книжка
     {
         Form2 f2;
         Form3 f3;
-        Form4 f4;
+        Form4 f4; 
         public List<string> lines;
         public bool dellNote = true, dellAll = false;
         Button[] Chb = new Button[18];
